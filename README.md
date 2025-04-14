@@ -7,7 +7,7 @@ This repository contains three Python tools related to computer security: a pass
 To clone this project to your local machine, use the following command:
 
 ```bash
-git clone [YOUR_REPOSITORY_URL]
+git clone https://github.com/LadanbeFlorand/HACKER_SECURE-PROJET.git
 ```
 ### 1. Password Strength Checker
 
